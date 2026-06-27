@@ -60,10 +60,8 @@ Two interactive pages:
 ---
 
 ## 📸 Dashboard Screenshots
-
-![Home Dashboard](Screenshot 2026-06-27 183608.png)
-
-![Best Worst Sellers](Screenshot 2026-06-27 183644.png)
+![Home Dashboard](Screenshot%202026-06-27%20183608.png)
+![Best Worst Sellers](Screenshot%202026-06-27%20183644.png)
 
 ---
 
